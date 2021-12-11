@@ -1,5 +1,5 @@
 # Movie App 2021
-<img src='%EC%9D%B4%EB%AF%B8%EC%A7%80%20042.png' width="400px" height="300px"/>
+<img src='movie_2021.png' width="400px" height="300px"/>
 영화 정보를 받아와서, 카드 형태로 뿌려주는 앱
 
 ## 주요기능
